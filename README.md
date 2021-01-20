@@ -23,11 +23,22 @@
 
 
  <p align="center">
-  <img align="center"  src="https://trello-attachments.s3.amazonaws.com/5d02107281e39c17911f5405/5fe21c12a7e07a11d45d7587/f4696d686d7a10ad1062ab3336ad8dcc/ezgif.com-gif-maker.gif" />
+ <p> Glaxy Fold</p >
+  <img align="center"  src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/galaxyFold.gif" />
  <br>
  <br>
- 
- <img align="center"  src="https://trello-attachments.s3.amazonaws.com/5d02107281e39c17911f5405/5fe21c12a7e07a11d45d7587/ef46760e093075e90b7e442aa1a82060/ezgif.com-gif-maker_(1).gif" />
+  <p> Pixel 2</p >
+ <img align="center"  src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/pixel.gif" />
+  <br>
+ <br>
+  <p> Ipad</p >
+ <img align="center"  src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/ipad.gif" />
+  <br>
+ <br>
+  <p> Web </p >
+ <img align="center"  src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/web.gif" />
+  <br>
+ <br>
 </p>
 
 
