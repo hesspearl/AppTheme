@@ -1,4 +1,4 @@
-<p align="center"  >
+
  <strong > 
 
 
@@ -22,13 +22,14 @@
 
 
 
- <p align="center">
+  <p align="center" >
  <p> Glaxy Fold</p >
-  <img align="center"  src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/galaxyFold.gif" />
+  <img align="center" src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/galaxyFold.gif"/>
+  </p>
  <br>
- <br>
+
   <p> Pixel 2</p >
- <img align="center"  src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/pixel.gif" />
+ <img align="center" src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/pixel.gif"/>
   <br>
  <br>
   <p> Ipad</p >
@@ -39,7 +40,6 @@
  <img align="center"  src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/web.gif" />
   <br>
  <br>
-</p>
 
 
-</p>
+
